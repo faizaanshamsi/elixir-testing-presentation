@@ -17,7 +17,7 @@ autoscale: true
 
 ---
 
-![](Images/excited-anchorman.gif)
+![](../Images/excited-anchorman.gif)
 
 # [fit] Let's write some tests
 
@@ -227,7 +227,7 @@ Randomized with seed 80369
 ---
 
 # A more sophisticated example
-![original](Images/sophiscated_cat.png)
+![original](../Images/sophiscated_cat.png)
 
 ---
 
@@ -424,7 +424,7 @@ Randomized with seed 807347
 
 # Faizaan Shamsi
 
-## ![inline](Images/greenfield.png) Developer @ Greenfield
-## ![inline](Images/GitHub-Logos/GitHub_Logo.png) faizaanshamsi
-## ![inline](Images/Twitter_logo_blue.png) @faizaanshamsi
-## ![inline](Images/googlemail-128.png) faizaanshamsi@gmail.com
+## ![inline](../Images/greenfield.png) Developer @ Greenfield
+## ![inline](../Images/GitHub-Logos/GitHub_Logo.png) faizaanshamsi
+## ![inline](../Images/Twitter_logo_blue.png) @faizaanshamsi
+## ![inline](../Images/googlemail-128.png) faizaanshamsi@gmail.com
